@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="administrateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="choixconc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="consultation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dispo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="document_medicaux.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dossieradministratif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dossierpatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dossier_medical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="exel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gerpa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gerSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gèrent les rendez-vous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="historiquecons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="medecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reg-med.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="rendezvous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="secretaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tempmed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

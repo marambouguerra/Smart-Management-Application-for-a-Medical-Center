@@ -1,0 +1,710 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\historiquecons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\historiquecons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossier_medical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossier_medical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossieradministratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossieradministratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\g\u00E8rent les rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\g\u00E8rent les rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\g\u00E8rent les rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\g\u00E8rent les rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dossierpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\document_medicaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\document_medicaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\tempmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\tempmed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\exel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\gerse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\gerse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\gerse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\gerpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\gerpa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\dispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\reg-med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\reg-med.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\tempmed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\stringajout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\stringajout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|c:\\users\\lenovo\\onedrive\\bureau\\projet\\projetcsharp\\projetcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\exel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\choixconc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\choixconc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58F1AD5C-A680-4320-BFD8-7A29E2DA9932}|projetcsharp\\projetcsharp.csproj|solutionrelative:projetcsharp\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "exel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\exel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs",
+              "RelativeToolTip": "projetcsharp\\exel.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAwwHEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:28:19.829Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\Program.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\Program.cs",
+              "RelativeToolTip": "projetcsharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:39:35.302Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "consultation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\consultation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs",
+              "RelativeToolTip": "projetcsharp\\consultation.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAAMMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:48:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dossieradministratif.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossieradministratif.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs",
+              "RelativeToolTip": "projetcsharp\\dossieradministratif.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAH4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:00:27.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "historiquecons.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\historiquecons.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs",
+              "RelativeToolTip": "projetcsharp\\historiquecons.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwKsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:18:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "historiquecons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\historiquecons.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\historiquecons.cs [Design]",
+              "RelativeToolTip": "projetcsharp\\historiquecons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:18:10.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dossier_medical.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossier_medical.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs",
+              "RelativeToolTip": "projetcsharp\\dossier_medical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:51:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "G\u00E8rent les rendez-vous.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "RelativeToolTip": "projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAAwM4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:00:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "notification.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\notification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs",
+              "RelativeToolTip": "projetcsharp\\notification.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAawB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:50:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dossierpatient.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossierpatient.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs",
+              "RelativeToolTip": "projetcsharp\\dossierpatient.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:49:08.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "rendezvous.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\rendezvous.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs",
+              "RelativeToolTip": "projetcsharp\\rendezvous.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:46:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "document_medicaux.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\document_medicaux.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs",
+              "RelativeToolTip": "projetcsharp\\document_medicaux.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T20:24:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "gerpa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\gerpa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs",
+              "RelativeToolTip": "projetcsharp\\gerpa.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:05:09.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tempmed.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\tempmed.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs",
+              "RelativeToolTip": "projetcsharp\\tempmed.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:03:17.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dispo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dispo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs",
+              "RelativeToolTip": "projetcsharp\\dispo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:12:33.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "gerSE.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerSE.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\gerSE.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerSE.cs",
+              "RelativeToolTip": "projetcsharp\\gerSE.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:58:07.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "reg-med.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\reg-med.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs",
+              "RelativeToolTip": "projetcsharp\\reg-med.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAlwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:19:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\login.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\login.cs",
+              "RelativeToolTip": "projetcsharp\\login.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:05:15.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "administrateur.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\administrateur.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs",
+              "RelativeToolTip": "projetcsharp\\administrateur.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:57:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "stringajout.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\stringajout.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\stringajout.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\stringajout.cs",
+              "RelativeToolTip": "projetcsharp\\stringajout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:46:49.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "tempmed.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.Designer.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\tempmed.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.Designer.cs",
+              "RelativeToolTip": "projetcsharp\\tempmed.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:47:58.108Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consultation.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\consultation.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\consultation.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\consultation.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:10:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dossier_medical.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossier_medical.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossier_medical.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\dossier_medical.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:23:05.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dossieradministratif.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossieradministratif.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossieradministratif.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\dossieradministratif.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "G\u00E8rent les rendez-vous.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\G\u00E8rent les rendez-vous.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\G\u00E8rent les rendez-vous.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\G\u00E8rent les rendez-vous.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:59:55.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\Form1.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\Form1.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:57.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dossierpatient.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dossierpatient.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dossierpatient.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\dossierpatient.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dispo.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\dispo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\dispo.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\dispo.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:46.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "notification.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\notification.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\notification.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\notification.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:37:26.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "document_medicaux.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\document_medicaux.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\document_medicaux.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\document_medicaux.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:49.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "rendezvous.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\rendezvous.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\rendezvous.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\rendezvous.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:41:31.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tempmed.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\tempmed.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\tempmed.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\tempmed.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:46:52.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "gerpa.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\gerpa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerpa.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\gerpa.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:05:07.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "gerSE.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerSE.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\gerSE.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\gerSE.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\gerSE.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:58:04.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "reg-med.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\reg-med.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\reg-med.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\reg-med.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T22:19:11.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "login.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\login.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\login.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\login.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:05:11.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "signup.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\signup.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\signup.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\signup.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\signup.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:46:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "secretaire.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\secretaire.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\secretaire.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\secretaire.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\secretaire.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:45:52.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "medecin.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\medecin.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\medecin.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\medecin.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\medecin.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:36:46.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "patient.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\patient.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\patient.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\patient.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\patient.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T21:57:17.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "exel.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\exel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\exel.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\exel.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:55.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "administrateur.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\administrateur.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\administrateur.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\administrateur.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:34.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "choixconc.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\choixconc.cs",
+              "RelativeDocumentMoniker": "projetcsharp\\choixconc.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Bureau\\projet\\projetcsharp\\projetcsharp\\choixconc.cs [Conception]",
+              "RelativeToolTip": "projetcsharp\\choixconc.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:41:42.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

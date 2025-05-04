@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "System.Data.OleDb/9.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "9.0.0.3",
+            "fileVersion": "9.0.325.11113"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Data.OleDb/9.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DlnjoH2mAIY1IueWzpqp2FJlLbg3Rmvxk4D7qN/ImT1E+h5M+UzmamG7S9hUBzvU3S7LZVLXF1HW8RZOvp2ARw==",
+      "path": "system.data.oledb/9.0.3",
+      "hashPath": "system.data.oledb.9.0.3.nupkg.sha512"
+    }
+  }
+}
